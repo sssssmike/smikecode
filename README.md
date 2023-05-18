@@ -1,2 +1,1 @@
-# MikeLeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# https://docs.google.com/document/d/1qbAvGGuZ1CM4m413YMUPmiK6FKB6UyDUOpM7dlGZokY/edit
